@@ -2,7 +2,7 @@
 
 ## Background
 
-https://wustl.bootcampcontent.com/wustl-bootcamp/wustl-stl-virt-data-pt-05-2021-u-c/-/raw/master/02-Homework/15-Mapping-Web/Instructions/Images/1-Logo.png
+![1-Logo](https://user-images.githubusercontent.com/82990618/131291688-91a64a93-876a-4d4a-a221-d7b36f60bafd.png)
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. This homework uses exercises from Leaflet to vizualize earthquake data. 
 
@@ -12,21 +12,18 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Level 1: Basic Visualization
 
-https://wustl.bootcampcontent.com/wustl-bootcamp/wustl-stl-virt-data-pt-05-2021-u-c/-/raw/master/02-Homework/15-Mapping-Web/Instructions/Images/2-BasicMap.png
-![2-BasicMap](Images/2-BasicMap.png)
+![2-BasicMap](https://user-images.githubusercontent.com/82990618/131291774-de3fb731-3f48-4410-9686-e9ee44319c77.png)
 
 Your first task is to visualize an earthquake data set.
 
 1. **Get your data set**
 
-   https://earthquake.usgs.gov/earthquakes/feed/
-   https://wustl.bootcampcontent.com/wustl-bootcamp/wustl-stl-virt-data-pt-05-2021-u-c/-/raw/master/02-Homework/15-Mapping-Web/Instructions/Images/3-Data.png
-   ![3-Data](Images/3-Data.png)
+![3-Data](https://user-images.githubusercontent.com/82990618/131291824-83992ad1-7320-4c9b-b894-819b05daee72.png)
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page, the data set for weekly updates was selected for the analysis/ vizualization. The URL of the JSON representation that was obtained was pulled for the vizualization. A topographical map from openstreetmap was used as a tile layer. 
    
-   https://wustl.bootcampcontent.com/wustl-bootcamp/wustl-stl-virt-data-pt-05-2021-u-c/-/raw/master/02-Homework/15-Mapping-Web/Instructions/Images/4-JSON.png
-   ![4-JSON](Images/4-JSON.png)
+![4-JSON](https://user-images.githubusercontent.com/82990618/131291618-63666831-6941-407a-9961-2ba36b49dc4b.png)
+
 
 2. **Import & Visualize the Data**
 
